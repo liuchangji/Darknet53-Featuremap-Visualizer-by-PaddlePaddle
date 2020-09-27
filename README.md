@@ -1,6 +1,12 @@
 # FearuteMap Visualizer by PaddlePaddle
 这是一个飞桨写的Yolov3,他可以检测可以训练
 
+## 运行环境
+Paddlepaddle=2.0.0a
+opencv-python
+numpy
+基本就这些了，packages.txt中里有一大堆我装的库，很多都用不上
+
 ## 使用方法
 
 在/config/config_example.py文件中，修改FEATURE_MAP_VISUALIZE = True
