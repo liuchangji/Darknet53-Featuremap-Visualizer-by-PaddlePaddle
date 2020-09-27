@@ -6,3 +6,5 @@
 
 我在B站上上传了一个可视化的效果，可以看看https://www.bilibili.com/video/BV15i4y1G7KY
 
+
+![Image text](https://github.com/liuchangji/Darknet53_Featuremap_Visualizer_by_PaddlePaddle/blob/master/test/2008_000048.jpg)
